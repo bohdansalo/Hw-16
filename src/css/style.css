@@ -1,0 +1,10 @@
+.bg-box {
+  display: block;
+  background-color: green;
+  background-image: url(../img/domik.webp), url(../img/trava.png),
+    url(../img/lamp.png), url(../img/yohik.webp), url(../img/ponchik.png);
+  background-position: center, bottom, top, left, right;
+  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+  background-size: 600px, 400px, 40px, 30px, 30px;
+  height: 800px;
+}
